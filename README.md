@@ -78,8 +78,11 @@ This RUBINA Ecommerce Website has the following features:
 ![Screenshot](https://github.com/Rubina0027/project/blob/master/outputs/db3.jpeg)
 - Product Schema
 
-![Screenshot](https://github.com/Rubina0027/project/blob/master/outputs/db2.jpeg)
-Many More Schemas like Order details, Cart Items, Address are there.
+![Screenshot](https://github.com/Rubina0027/project/blob/master/outputs/db5.JPG)
+- Contact Us Schema
 
+![Screenshot](https://github.com/Rubina0027/project/blob/master/outputs/db2.jpeg)
+
+Many More Schemas like Order details, Cart Items, Address are there.
 
 #### Thank you for checking out our RUBINA Ecommerce Website!
